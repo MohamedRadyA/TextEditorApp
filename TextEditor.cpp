@@ -2,7 +2,7 @@
 // Last Modification Date: 16/05/2022
 // Purpose: Text Editor Main Application File
 
-#include "TextEditorFunc.cpp"
+#include "TextEditorFuncs.cpp"
 
 int main() {
     openFile();
